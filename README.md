@@ -1,6 +1,10 @@
 # MAI-MMTT
 Лабораторные работы по дисциплине "Методы, средства и технологии мультимедиа"
 
+## Датасеты
+Классификация - [Credit Card Fraud Detection Dataset 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
+Регрессия - [Gold Price Regression](https://www.kaggle.com/datasets/franciscogcc/financial-data)
+
 ## Итоги
 
 Метрика для задачи классификации -- Accuracy
